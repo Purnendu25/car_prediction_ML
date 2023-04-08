@@ -1,0 +1,302 @@
+,Car_Name,car_age,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+0,ritz,9,335000,559000,27000,Petrol,Dealer,Manual,0
+1,sx4,10,475000,953999,43000,Diesel,Dealer,Manual,0
+2,ciaz,6,725000,985000,6900,Petrol,Dealer,Manual,0
+3,wagon r,12,285000,415000,5200,Petrol,Dealer,Manual,0
+4,swift,9,459999,687000,42450,Diesel,Dealer,Manual,0
+5,vitara brezza,5,925000,983000,2071,Diesel,Dealer,Manual,0
+6,ciaz,8,675000,811999,18796,Petrol,Dealer,Manual,0
+7,s cross,8,650000,861000,33429,Diesel,Dealer,Manual,0
+8,ciaz,7,875000,889000,20273,Diesel,Dealer,Manual,0
+9,ciaz,8,745000,892000,42367,Diesel,Dealer,Manual,0
+10,alto 800,6,285000,360000,2135,Petrol,Dealer,Manual,0
+11,ciaz,8,685000,1038000,51000,Diesel,Dealer,Manual,0
+12,ciaz,8,750000,994000,15000,Petrol,Dealer,Automatic,0
+13,ertiga,8,610000,771000,26000,Petrol,Dealer,Manual,0
+14,dzire,14,225000,721000,77427,Petrol,Dealer,Manual,0
+15,ertiga,7,775000,1079000,43000,Diesel,Dealer,Manual,0
+16,ertiga,8,725000,1079000,41678,Diesel,Dealer,Manual,0
+17,ertiga,7,775000,1079000,43000,Diesel,Dealer,Manual,0
+18,wagon r,8,325000,509000,35500,CNG,Dealer,Manual,0
+19,sx4,13,265000,798000,41442,Petrol,Dealer,Manual,0
+20,alto k10,7,285000,395000,25000,Petrol,Dealer,Manual,0
+21,ignis,6,490000,571000,2400,Petrol,Dealer,Manual,0
+22,sx4,12,440000,801000,50000,Petrol,Dealer,Automatic,0
+23,alto k10,9,250000,346000,45280,Petrol,Dealer,Manual,0
+24,wagon r,10,290000,441000,56879,Petrol,Dealer,Manual,0
+25,swift,12,300000,499000,20000,Petrol,Dealer,Manual,0
+26,swift,10,415000,587000,55138,Petrol,Dealer,Manual,0
+27,swift,6,600000,649000,16200,Petrol,Individual,Manual,0
+28,alto k10,13,195000,395000,44542,Petrol,Dealer,Manual,0
+29,ciaz,8,745000,1038000,45000,Diesel,Dealer,Manual,0
+30,ritz,11,310000,598000,51439,Diesel,Dealer,Manual,0
+31,ritz,12,235000,488999,54200,Petrol,Dealer,Manual,0
+32,swift,9,495000,749000,39000,Diesel,Dealer,Manual,0
+33,ertiga,9,600000,994999,45000,Diesel,Dealer,Manual,0
+34,dzire,9,550000,806000,45000,Diesel,Dealer,Manual,0
+35,sx4,12,295000,774000,49998,CNG,Dealer,Manual,0
+36,dzire,8,465000,720000,48767,Petrol,Dealer,Manual,0
+37,800,20,35000,227999,127000,Petrol,Individual,Manual,0
+38,alto k10,7,300000,376000,10079,Petrol,Dealer,Manual,0
+39,sx4,20,225000,798000,62000,Petrol,Dealer,Manual,0
+40,baleno,7,585000,787000,24524,Petrol,Dealer,Automatic,0
+41,alto k10,9,254999,398000,46706,Petrol,Dealer,Manual,0
+42,sx4,15,195000,715000,58000,Petrol,Dealer,Manual,0
+43,dzire,9,550000,806000,45780,Diesel,Dealer,Manual,0
+44,omni,11,125000,269000,50000,Petrol,Dealer,Manual,0
+45,ciaz,9,750000,1204000,15000,Petrol,Dealer,Automatic,0
+46,ritz,10,265000,488999,64532,Petrol,Dealer,Manual,0
+47,wagon r,17,105000,415000,65000,Petrol,Dealer,Manual,0
+48,ertiga,8,580000,771000,25870,Petrol,Dealer,Manual,0
+49,ciaz,6,775000,928999,37000,Petrol,Dealer,Automatic,0
+50,fortuner,11,1490000,3061000,104707,Diesel,Dealer,Automatic,0
+51,fortuner,8,2300000,3061000,40000,Diesel,Dealer,Automatic,0
+52,innova,6,1800000,1977000,15000,Diesel,Dealer,Automatic,0
+53,fortuner,10,1600000,3061000,135000,Diesel,Individual,Automatic,0
+54,innova,18,275000,1021000,90000,Petrol,Individual,Manual,0
+55,corolla altis,14,360000,1504000,70000,Petrol,Dealer,Automatic,0
+56,etios cross,8,450000,727000,40534,Petrol,Dealer,Manual,0
+57,corolla altis,13,475000,1854000,50000,Petrol,Dealer,Manual,0
+58,etios g,9,409999,680000,39485,Petrol,Dealer,Manual,1
+59,fortuner,9,1998999,3596000,41000,Diesel,Dealer,Automatic,0
+60,corolla altis,10,695000,1861000,40001,Petrol,Dealer,Manual,0
+61,etios cross,8,450000,770000,40588,Petrol,Dealer,Manual,0
+62,fortuner,9,1875000,3596000,78000,Diesel,Dealer,Automatic,0
+63,fortuner,8,2350000,3596000,47000,Diesel,Dealer,Automatic,0
+64,fortuner,6,3300000,3622999,6000,Diesel,Dealer,Automatic,0
+65,etios liva,9,475000,695000,45000,Diesel,Dealer,Manual,0
+66,innova,6,1975000,2315000,11000,Petrol,Dealer,Automatic,0
+67,fortuner,13,925000,2045000,59000,Diesel,Dealer,Manual,0
+68,corolla altis,12,434999,1374000,88000,Petrol,Dealer,Manual,0
+69,corolla altis,7,1425000,2091000,12000,Petrol,Dealer,Manual,0
+70,etios liva,9,395000,676000,71000,Diesel,Dealer,Manual,0
+71,corolla altis,12,450000,1248000,45000,Diesel,Dealer,Manual,0
+72,corolla altis,10,745000,1861000,56001,Petrol,Dealer,Manual,0
+73,etios liva,12,265000,571000,43000,Petrol,Dealer,Manual,0
+74,etios cross,9,490000,893000,83000,Diesel,Dealer,Manual,0
+75,etios g,8,395000,680000,36000,Petrol,Dealer,Manual,0
+76,corolla altis,10,550000,1468000,72000,Petrol,Dealer,Manual,0
+77,corolla,19,150000,1235000,135154,Petrol,Dealer,Automatic,0
+78,corolla altis,13,525000,2283000,80000,Petrol,Dealer,Automatic,0
+79,fortuner,11,1450000,3061000,89000,Diesel,Dealer,Automatic,0
+80,corolla altis,7,1473000,1489000,23000,Diesel,Dealer,Manual,0
+81,etios gd,8,475000,785000,40000,Diesel,Dealer,Manual,0
+82,innova,6,2300000,2539000,15000,Diesel,Dealer,Automatic,0
+83,innova,8,1250000,1346000,38000,Diesel,Dealer,Manual,0
+84,innova,18,349000,1346000,197176,Diesel,Dealer,Manual,0
+85,camry,17,250000,2373000,142000,Petrol,Individual,Automatic,3
+86,land cruiser,13,3500000,9260000,78000,Diesel,Dealer,Manual,0
+87,corolla altis,11,590000,1374000,56000,Petrol,Dealer,Manual,0
+88,etios liva,10,345000,605000,47000,Petrol,Dealer,Manual,0
+89,etios g,9,475000,676000,40000,Petrol,Dealer,Manual,0
+90,corolla altis,14,380000,1861000,62000,Petrol,Dealer,Manual,0
+91,innova,9,1125000,1609000,58242,Diesel,Dealer,Manual,0
+92,innova,18,351000,1370000,75000,Petrol,Dealer,Manual,0
+93,fortuner,8,2300000,3061000,40000,Diesel,Dealer,Automatic,0
+94,corolla altis,15,400000,2278000,89000,Petrol,Dealer,Automatic,0
+95,corolla altis,11,585000,1861000,72000,Petrol,Dealer,Manual,0
+96,innova,7,2075000,2539000,29000,Diesel,Dealer,Automatic,0
+97,corolla altis,6,1700000,1864000,8700,Petrol,Dealer,Manual,0
+98,corolla altis,10,705000,1861000,45000,Petrol,Dealer,Manual,0
+99,fortuner,13,965000,2045000,50024,Diesel,Dealer,Manual,0
+100,Royal Enfield Thunder 500,7,175000,190000,3000,Petrol,Individual,Manual,0
+101,UM Renegade Mojave,6,170000,182000,1400,Petrol,Individual,Manual,0
+102,KTM RC200,6,165000,178000,4000,Petrol,Individual,Manual,0
+103,Bajaj Dominar 400,6,145000,160000,1200,Petrol,Individual,Manual,0
+104,Royal Enfield Classic 350,6,135000,147000,4100,Petrol,Individual,Manual,0
+105,KTM RC390,8,135000,237000,21700,Petrol,Individual,Manual,0
+106,Hyosung GT250R,9,135000,345000,16500,Petrol,Individual,Manual,1
+107,Royal Enfield Thunder 350,10,125000,150000,15000,Petrol,Individual,Manual,0
+108,Royal Enfield Thunder 350,7,120000,150000,18000,Petrol,Individual,Manual,0
+109,Royal Enfield Classic 350,6,120000,147000,11000,Petrol,Individual,Manual,0
+110,KTM RC200,7,120000,178000,6000,Petrol,Individual,Manual,0
+111,Royal Enfield Thunder 350,7,114999,150000,8700,Petrol,Individual,Manual,0
+112,KTM 390 Duke ,9,114999,240000,7000,Petrol,Individual,Manual,0
+113,Mahindra Mojo XT300,7,114999,140000,35000,Petrol,Individual,Manual,0
+114,Royal Enfield Classic 350,8,114999,147000,17000,Petrol,Individual,Manual,0
+115,Royal Enfield Classic 350,8,111000,147000,17500,Petrol,Individual,Manual,0
+116,Royal Enfield Classic 350,10,110000,147000,33000,Petrol,Individual,Manual,0
+117,Royal Enfield Thunder 500,8,110000,190000,14000,Petrol,Individual,Manual,0
+118,Royal Enfield Classic 350,8,110000,147000,26000,Petrol,Individual,Manual,0
+119,Royal Enfield Thunder 500,10,105000,190000,5400,Petrol,Individual,Manual,0
+120,Bajaj Pulsar RS200,7,105000,126000,5700,Petrol,Individual,Manual,0
+121,Royal Enfield Thunder 350,12,105000,150000,6900,Petrol,Individual,Manual,0
+122,Royal Enfield Bullet 350,7,105000,117000,6000,Petrol,Individual,Manual,0
+123,Royal Enfield Classic 350,10,100000,147000,46500,Petrol,Individual,Manual,0
+124,Royal Enfield Classic 500,11,95000,175000,11500,Petrol,Individual,Manual,0
+125,Royal Enfield Classic 500,14,90000,175000,40000,Petrol,Individual,Manual,0
+126,Bajaj Avenger 220,6,90000,95000,1300,Petrol,Individual,Manual,0
+127,Bajaj Avenger 150,7,75000,80000,7000,Petrol,Individual,Manual,0
+128,Honda CB Hornet 160R,6,80000,87000,3000,Petrol,Individual,Manual,0
+129,Yamaha FZ S V 2.0,6,78000,84000,5000,Petrol,Individual,Manual,0
+130,Honda CB Hornet 160R,6,75000,87000,11000,Petrol,Individual,Manual,0
+131,Yamaha FZ 16,8,75000,82000,18000,Petrol,Individual,Manual,0
+132,Bajaj Avenger 220,6,75000,95000,3500,Petrol,Individual,Manual,0
+133,Bajaj Avenger 220,7,72000,95000,500,Petrol,Individual,Manual,0
+134,TVS Apache RTR 160,6,65000,81000,11800,Petrol,Individual,Manual,0
+135,Bajaj Pulsar 150,8,65000,74000,5000,Petrol,Individual,Manual,0
+136,Honda CBR 150,9,65000,120000,23500,Petrol,Individual,Manual,0
+137,Hero Extreme,10,65000,78700,16000,Petrol,Individual,Manual,0
+138,Honda CB Hornet 160R,7,60000,87000,15000,Petrol,Individual,Manual,0
+139,Bajaj Avenger 220 dtsi,8,60000,95000,16600,Petrol,Individual,Manual,0
+140,Honda CBR 150,10,60000,120000,32000,Petrol,Individual,Manual,0
+141,Bajaj Avenger 150 street,7,60000,80000,20000,Petrol,Individual,Manual,0
+142,Yamaha FZ  v 2.0,8,60000,84000,29000,Petrol,Individual,Manual,0
+143,Yamaha FZ  v 2.0,7,60000,84000,25000,Petrol,Individual,Manual,0
+144,Bajaj Pulsar  NS 200,9,60000,99000,25000,Petrol,Individual,Manual,0
+145,TVS Apache RTR 160,11,60000,81000,19000,Petrol,Individual,Manual,0
+146,Hero Extreme,9,55000,78700,15000,Petrol,Individual,Manual,0
+147,Yamaha FZ S V 2.0,8,55000,84000,58000,Petrol,Individual,Manual,0
+148,Bajaj Pulsar 220 F,13,52000,94000,45000,Petrol,Individual,Manual,0
+149,Bajaj Pulsar 220 F,7,51000,94000,24000,Petrol,Individual,Manual,0
+150,TVS Apache RTR 180,12,50000,82600,6000,Petrol,Individual,Manual,0
+151,Hero Passion X pro,7,50000,55000,31000,Petrol,Individual,Manual,0
+152,Bajaj Pulsar NS 200,11,50000,99000,13000,Petrol,Individual,Manual,0
+153,Bajaj Pulsar NS 200,10,50000,99000,45000,Petrol,Individual,Manual,0
+154,Yamaha Fazer ,9,50000,88000,8000,Petrol,Individual,Manual,0
+155,Honda Activa 4G,6,48000,51000,4300,Petrol,Individual,Automatic,0
+156,TVS Sport ,6,48000,52000,15000,Petrol,Individual,Manual,0
+157,Yamaha FZ S V 2.0,8,48000,84000,23000,Petrol,Individual,Manual,0
+158,Honda Dream Yuga ,6,48000,54000,8600,Petrol,Individual,Manual,0
+159,Honda Activa 4G,6,45000,51000,4000,Petrol,Individual,Automatic,0
+160,Bajaj Avenger Street 220,12,45000,95000,24000,Petrol,Individual,Manual,0
+161,TVS Apache RTR 180,9,45000,82600,23000,Petrol,Individual,Manual,0
+162,Bajaj Pulsar NS 200,11,45000,99000,14500,Petrol,Individual,Manual,0
+163,Bajaj Avenger 220 dtsi,13,45000,95000,27000,Petrol,Individual,Manual,0
+164,Hero Splender iSmart,7,45000,54000,14000,Petrol,Individual,Manual,0
+165,Activa 3g,7,45000,54000,500,Petrol,Individual,Automatic,0
+166,Hero Passion Pro,7,45000,55000,1000,Petrol,Individual,Manual,0
+167,TVS Apache RTR 160,9,42000,81000,42000,Petrol,Individual,Manual,0
+168,Honda CB Trigger,10,42000,73000,12000,Petrol,Individual,Manual,0
+169,Hero Splender iSmart,8,40000,54000,14000,Petrol,Individual,Manual,0
+170,Yamaha FZ S ,11,40000,83000,5500,Petrol,Individual,Manual,0
+171,Hero Passion Pro,8,40000,55000,6700,Petrol,Individual,Manual,0
+172,Bajaj Pulsar 135 LS,9,40000,64000,13700,Petrol,Individual,Manual,0
+173,Activa 4g,6,40000,51000,1300,Petrol,Individual,Automatic,0
+174,Honda CB Unicorn,8,38000,72000,38600,Petrol,Individual,Manual,0
+175,Hero Honda CBZ extreme,12,38000,78700,75000,Petrol,Individual,Manual,0
+176,Honda Karizma,12,35000,105000,30000,Petrol,Individual,Manual,0
+177,Honda Activa 125,7,35000,56999,24000,Petrol,Individual,Automatic,0
+178,TVS Jupyter,9,35000,52000,19000,Petrol,Individual,Automatic,0
+179,Honda Karizma,13,31000,105000,213000,Petrol,Individual,Manual,0
+180,Hero Honda Passion Pro,11,30000,51000,60000,Petrol,Individual,Manual,0
+181,Hero Splender Plus,7,30000,48000,50000,Petrol,Individual,Manual,0
+182,Honda CB Shine,10,30000,57999,30000,Petrol,Individual,Manual,0
+183,Bajaj Discover 100,10,27000,47000,21000,Petrol,Individual,Manual,0
+184,Bajaj Pulsar 150,15,25000,75000,26000,Petrol,Individual,Manual,1
+185,Suzuki Access 125,15,25000,57999,1900,Petrol,Individual,Automatic,0
+186,TVS Wego,13,25000,52000,22000,Petrol,Individual,Automatic,0
+187,Honda CB twister,10,25000,51000,32000,Petrol,Individual,Manual,0
+188,Hero Glamour,10,25000,56999,18000,Petrol,Individual,Manual,0
+189,Hero Super Splendor,18,20000,56999,55000,Petrol,Individual,Manual,0
+190,Bajaj Pulsar 150,15,20000,75000,60000,Petrol,Individual,Manual,0
+191,Bajaj Discover 125,11,20000,56999,25000,Petrol,Individual,Manual,1
+192,Hero Hunk,16,20000,75000,49000,Petrol,Individual,Manual,1
+193,Hero  Ignitor Disc,10,20000,65000,24000,Petrol,Individual,Manual,1
+194,Hero  CBZ Xtreme,15,20000,78700,50000,Petrol,Individual,Manual,0
+195,Bajaj  ct 100,8,18000,32000,35000,Petrol,Individual,Manual,0
+196,Activa 3g,15,17000,52000,500000,Petrol,Individual,Automatic,0
+197,Honda CB twister,13,16000,51000,33000,Petrol,Individual,Manual,0
+198,Bajaj Discover 125,12,15000,56999,35000,Petrol,Individual,Manual,1
+199,Honda CB Shine,16,12000,57999,53000,Petrol,Individual,Manual,0
+200,Bajaj Pulsar 150,17,10000,75000,92233,Petrol,Individual,Manual,0
+201,i20,13,325000,679000,58000,Diesel,Dealer,Manual,1
+202,grand i10,8,440000,570000,28200,Petrol,Dealer,Manual,0
+203,i10,12,295000,459999,53460,Petrol,Dealer,Manual,0
+204,eon,8,275000,443000,28282,Petrol,Dealer,Manual,0
+205,grand i10,7,525000,570000,3493,Petrol,Dealer,Manual,1
+206,xcent,6,575000,713000,12479,Petrol,Dealer,Manual,0
+207,grand i10,8,515000,570000,34797,Petrol,Dealer,Automatic,0
+208,i20,6,790000,810000,3435,Petrol,Dealer,Manual,0
+209,grand i10,8,484999,570000,21125,Diesel,Dealer,Manual,0
+210,i10,11,310000,459999,35775,Petrol,Dealer,Manual,0
+211,elantra,8,1175000,1479000,43535,Diesel,Dealer,Manual,0
+212,creta,7,1125000,1360000,22671,Petrol,Dealer,Manual,0
+213,i20,12,290000,679000,31604,Petrol,Dealer,Manual,0
+214,grand i10,6,525000,570000,20114,Petrol,Dealer,Manual,0
+215,verna,11,450000,940000,36100,Petrol,Dealer,Manual,0
+216,eon,7,290000,443000,12500,Petrol,Dealer,Manual,0
+217,eon,7,315000,443000,15000,Petrol,Dealer,Manual,0
+218,verna,9,645000,940000,45078,Petrol,Dealer,Manual,0
+219,verna,11,450000,940000,36000,Petrol,Dealer,Manual,0
+220,eon,6,350000,443000,38488,Petrol,Dealer,Manual,0
+221,i20,10,450000,679000,32000,Petrol,Dealer,Automatic,0
+222,i20,9,600000,760000,77632,Diesel,Dealer,Manual,0
+223,verna,8,825000,940000,61381,Diesel,Dealer,Manual,0
+224,verna,10,511000,940000,36198,Petrol,Dealer,Automatic,0
+225,i10,12,270000,459999,22517,Petrol,Dealer,Manual,0
+226,grand i10,8,525000,570000,24678,Petrol,Dealer,Manual,0
+227,i10,12,254999,443000,57000,Petrol,Dealer,Manual,0
+228,verna,11,495000,940000,60000,Diesel,Dealer,Manual,0
+229,i20,11,310000,679000,52132,Diesel,Dealer,Manual,0
+230,verna,10,615000,940000,45000,Diesel,Dealer,Manual,0
+231,verna,6,925000,940000,15001,Petrol,Dealer,Manual,0
+232,elantra,8,1145000,1479000,12900,Petrol,Dealer,Automatic,0
+233,grand i10,10,390000,570000,53000,Diesel,Dealer,Manual,0
+234,grand i10,8,550000,570000,4492,Petrol,Dealer,Manual,0
+235,verna,6,910000,940000,15141,Petrol,Dealer,Manual,0
+236,eon,7,310000,443000,11849,Petrol,Dealer,Manual,0
+237,creta,8,1125000,1360000,68000,Diesel,Dealer,Manual,0
+238,verna,10,480000,940000,60241,Petrol,Dealer,Manual,0
+239,eon,11,200000,443000,23709,Petrol,Dealer,Manual,0
+240,verna,11,535000,940000,32322,Diesel,Dealer,Manual,0
+241,xcent,8,475000,713000,35866,Petrol,Dealer,Manual,1
+242,xcent,9,440000,713000,34000,Petrol,Dealer,Manual,0
+243,i20,7,625000,760000,7000,Petrol,Dealer,Manual,0
+244,verna,10,595000,940000,49000,Diesel,Dealer,Manual,0
+245,verna,11,520000,940000,71000,Diesel,Dealer,Manual,0
+246,i20,11,375000,679000,35000,Petrol,Dealer,Manual,0
+247,verna,8,595000,940000,36000,Petrol,Dealer,Manual,0
+248,i10,10,400000,459999,30000,Petrol,Dealer,Manual,0
+249,i20,7,525000,760000,17000,Petrol,Dealer,Manual,0
+250,creta,7,1290000,1360000,35934,Diesel,Dealer,Manual,0
+251,city,10,500000,990000,56701,Petrol,Dealer,Manual,0
+252,brio,8,540000,682000,31427,Petrol,Dealer,Automatic,0
+253,city,9,720000,990000,48000,Diesel,Dealer,Manual,0
+254,city,10,525000,990000,54242,Petrol,Dealer,Manual,0
+255,brio,11,300000,535000,53675,Petrol,Dealer,Manual,0
+256,city,7,1025000,1360000,49562,Petrol,Dealer,Manual,0
+257,city,8,850000,1360000,40324,Petrol,Dealer,Manual,0
+258,city,8,840000,1360000,25000,Petrol,Dealer,Manual,0
+259,amaze,9,390000,700000,36054,Petrol,Dealer,Manual,0
+260,city,7,915000,1360000,29223,Petrol,Dealer,Manual,0
+261,brio,7,550000,597000,5600,Petrol,Dealer,Manual,0
+262,amaze,8,400000,580000,40023,Petrol,Dealer,Manual,0
+263,jazz,7,660000,770000,16002,Petrol,Dealer,Manual,0
+264,amaze,8,400000,700000,40026,Petrol,Dealer,Manual,0
+265,jazz,6,650000,869999,21200,Petrol,Dealer,Manual,0
+266,amaze,9,365000,700000,35000,Petrol,Dealer,Manual,0
+267,city,7,835000,940000,19434,Diesel,Dealer,Manual,0
+268,brio,6,480000,580000,19000,Petrol,Dealer,Manual,0
+269,city,8,670000,1000000,18828,Petrol,Dealer,Manual,0
+270,city,12,409999,1000000,69341,Petrol,Dealer,Manual,0
+271,city,14,300000,1000000,69562,Petrol,Dealer,Manual,0
+272,city,8,750000,1000000,27600,Petrol,Dealer,Manual,0
+273,jazz,13,225000,750000,61203,Petrol,Dealer,Manual,0
+274,brio,9,530000,680000,16500,Petrol,Dealer,Manual,0
+275,city,7,1090000,1360000,30753,Petrol,Dealer,Automatic,0
+276,city,8,865000,1360000,24800,Petrol,Dealer,Manual,0
+277,city,8,969999,1360000,21780,Petrol,Dealer,Manual,0
+278,jazz,7,600000,840000,4000,Petrol,Dealer,Manual,0
+279,city,9,625000,1360000,40126,Petrol,Dealer,Manual,0
+280,brio,8,525000,590000,14465,Petrol,Dealer,Manual,0
+281,city,17,210000,760000,50456,Petrol,Dealer,Manual,0
+282,city,9,825000,1400000,63000,Diesel,Dealer,Manual,0
+283,city,7,899000,1180000,9010,Petrol,Dealer,Manual,0
+284,brio,10,350000,590000,9800,Petrol,Dealer,Manual,0
+285,jazz,7,740000,850000,15059,Petrol,Dealer,Automatic,0
+286,jazz,7,565000,790000,28569,Petrol,Dealer,Manual,0
+287,amaze,8,575000,750000,44000,Petrol,Dealer,Automatic,0
+288,city,8,840000,1360000,34000,Petrol,Dealer,Manual,0
+289,city,7,1011000,1360000,10980,Petrol,Dealer,Manual,0
+290,amaze,9,450000,640000,19000,Petrol,Dealer,Manual,0
+291,brio,8,540000,610000,31427,Petrol,Dealer,Manual,0
+292,jazz,7,640000,840000,12000,Petrol,Dealer,Manual,0
+293,city,13,325000,990000,38000,Petrol,Dealer,Manual,0
+294,amaze,9,375000,680000,33019,Petrol,Dealer,Manual,0
+295,city,8,855000,1309000,60076,Diesel,Dealer,Manual,0
+296,city,7,950000,1160000,33988,Diesel,Dealer,Manual,0
+297,brio,8,400000,590000,60000,Petrol,Dealer,Manual,0
+298,city,14,335000,1100000,87934,Petrol,Dealer,Manual,0
+299,city,6,1150000,1250000,9000,Diesel,Dealer,Manual,0
+300,brio,7,530000,590000,5464,Petrol,Dealer,Manual,0
